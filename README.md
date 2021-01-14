@@ -7,3 +7,5 @@ Making To - do List with JS
 3. To do list
 
 4. weather base on your location (using api)
+
+5. Nice background wallpaper
