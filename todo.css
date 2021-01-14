@@ -25,3 +25,19 @@
   display: flex;
   justify-content: center;
 }
+
+.js-todoForm {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.js-todoForm input {
+  font-size: 20px;
+  border-radius: 5px;
+}
+.js-todolist {
+  display: flex;
+  flex-direction: column;
+  padding-left: 41.5%;
+  margin-top: 20px;
+}
